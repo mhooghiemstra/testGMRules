@@ -1,1 +1,1 @@
-{"iconName":"standard:topic2","ruleType":"constant","name":"Test Rule","constant":"TEST DATA","id":"HV47jG-88173480","fieldName":"cpm__Custom_1__c","fieldType":"string","seqNr":"1","jobNr":"1"}
+{"iconName":"standard:topic2","ruleType":"constant","name":"Test Rule","constant":"TEST DATA","fieldName":"cpm__Custom_1__c","fieldType":"string"}
