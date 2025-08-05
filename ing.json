@@ -1,3 +1,3 @@
-[{"iconName":"standard:topic2","ruleType":"constant","name":"Test Rule","constant":"TEST DATA","fieldName":"cpm__Custom_1__c","fieldType":"string","seqNr":"1","jobNr":"1"},
-{"iconName":"standard:topic2","ruleType":"constant","name":"Test Rule2","constant":"TEST DATA","fieldName":"cpm__Custom_2__c","fieldType":"string","seqNr":"2","jobNr":"1"},
-{"iconName":"standard:topic2","ruleType":"constant","name":"Test Rule3","constant":"TEST DATA","fieldName":"cpm__Custom_3__c","fieldType":"string","seqNr":"3","jobNr":"1"}]
+[{"iconName":"standard:topic2","ruleType":"constant","name":"Test Rule","constant":"TEST DATA","fieldName":"cpm__Custom_1__c","fieldType":"string"},
+{"iconName":"standard:topic2","ruleType":"constant","name":"Test Rule2","constant":"TEST DATA","fieldName":"cpm__Custom_2__c","fieldType":"string"},
+{"iconName":"standard:topic2","ruleType":"constant","name":"Test Rule3","constant":"TEST DATA","fieldName":"cpm__Custom_3__c","fieldType":"string"}]
